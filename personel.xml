@@ -1,0 +1,10 @@
+<personeller>
+  <personel id="1">
+    <ad>Ali</ad>
+    <soyad>Yılmaz</soyad>
+    <departman>Yazılım</departman>
+    <maas>25000.50</maas>
+    <ise_baslama_tarihi>2023-06-15</ise_baslama_tarihi>
+    <aktif_mi>true</aktif_mi>
+  </personel>
+</personeller>
